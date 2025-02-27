@@ -62,5 +62,6 @@ socket.send_json(get_request)
 response = socket.recv_json()
 print("Recipe Retrieved:\n", response)
 
+![Screenshot 2025-02-26 at 10 58 47 PM](https://github.com/user-attachments/assets/5566ee4a-6209-4d8f-ac73-62fb0fd3dfd1)
 
 
