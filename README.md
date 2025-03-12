@@ -64,6 +64,10 @@ print("Recipe Retrieved:\n", response)
 
 UML SEQUENCE
 -------------
-![Screenshot 2025-02-26 at 10 58 47 PM](https://github.com/user-attachments/assets/5566ee4a-6209-4d8f-ac73-62fb0fd3dfd1)
+
+![Screenshot 2025-03-11 at 10 35 42 PM](https://github.com/user-attachments/assets/db61c119-0297-42fc-b3ac-a9ee34366755)
+![Screenshot 2025-03-11 at 10 35 51 PM](https://github.com/user-attachments/assets/ba3667f0-6207-4cf8-b87b-c50e3b768665)
+
+
 
 
